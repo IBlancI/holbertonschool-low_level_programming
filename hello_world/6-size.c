@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- *main print size of variable
- *Return: 0 Success
-*/
+ * main print size of variable
+ *
+ * Return: 0 Success
+ */
 int main(void)
 {
 	printf("Size of a char: %lu byte(s)\n", sizeof(char));
