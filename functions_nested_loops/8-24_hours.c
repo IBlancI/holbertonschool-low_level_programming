@@ -1,12 +1,13 @@
 #include "main.h"
 #include <stdio.h>
 
-/**
- 
-jack_bauer - print hours and minutes*
-Description: every minutes of a day
-Return: 0 if success
-*/
+/*
+ * jack_bauer - print hours and minutes
+ *
+ * Description: every minutes of a day
+ *
+ * Return: 0 if success
+ */
 
 void jack_bauer(void)
 {
