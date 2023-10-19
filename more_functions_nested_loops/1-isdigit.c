@@ -2,10 +2,10 @@
 #include "main.h"
 
 /**
- * _isupper - check the code
+ * _isdigit - check the code
  * @c: value to check
  * Description: fvgbsdf
- * Return: Always 0.
+ * Return: 1 if uppercase else 0
  */
 
 int _isupper(int c)
