@@ -2,9 +2,11 @@
 #include "main.h"
 
 /**
-  * void swap_int - Entry point
+  * swap_int - Entry point
+  * @a: change value
+  * @b; change
   * Description: swap value
-  * 
+  *
   */
 void swap_int(int *a, int *b)
 {
