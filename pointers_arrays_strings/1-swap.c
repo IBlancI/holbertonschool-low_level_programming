@@ -4,7 +4,7 @@
 /**
   * swap_int - Entry point
   * @a: change value
-  * @b; change
+  * @b: change
   * Description: swap value
   *
   */
