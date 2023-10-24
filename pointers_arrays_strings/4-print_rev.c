@@ -12,8 +12,9 @@ void print_rev(char *s)
 	int nmb = 0;
 	int index = 0;
 	while (s[index++])
+
 	nmb++;
-	for (index = nmb - 1; index >=0; index--)
+	for (index = nmb - 1; index >= 0; index--)
 		putchar(s[index]);
 	putchar('\n');
 }
