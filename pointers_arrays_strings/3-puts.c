@@ -9,5 +9,10 @@
 
 void _puts(char *str)
 {
-	printf("\"%s\"\n", str);
+	int lettre;
+	for (lettre = 0; str[lettre]; lettre++)
+	{
+		putchar(str[lettre]);
+	}
+	putchar('\n');
 }
