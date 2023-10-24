@@ -3,7 +3,7 @@
 
 /**
   * print_rev - Entry point
-  * : variable
+  * @s : variable
   * Return: always 0 (success)
   */
 
