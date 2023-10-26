@@ -15,7 +15,7 @@ void puts2(char *str)
 	for (lettre = 0; str[lettre] != '\0'; lettre++)
 	{
 		if (lettre % 2 == 0)
-		putchar(str[lettre]);
-	}
+sh: 1: q: not found
+sh: 1: q: not found
 	putchar('\n');
 }
