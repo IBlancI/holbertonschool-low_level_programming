@@ -1,0 +1,5 @@
+[user]
+	email = adilslimani93130@gmail.com
+	name = IBlancI
+[credential]
+	helper = cache --timeout 7200000
