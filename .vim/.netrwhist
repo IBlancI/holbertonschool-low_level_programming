@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/root/holbertonschool-low_level_programming/functions_nested_loops'
+let g:netrw_dirhist_6='/holbertonschool-shell/basics'
+let g:netrw_dirhist_5='/root/vi/inserting'
+let g:netrw_dirhist_4='/root/vi'
+let g:netrw_dirhist_3='/root/vi/inserting'
+let g:netrw_dirhist_2='/var/mail'
+let g:netrw_dirhist_1='/var'
+let g:netrw_dirhist_0='/var/local'
+let g:netrw_dirhist_9='/var'
+let g:netrw_dirhist_8='/var/backups'
